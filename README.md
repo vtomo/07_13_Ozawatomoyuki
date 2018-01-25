@@ -24,8 +24,7 @@ Usage
 
 Clone software:
 ```sh
-$ cd
-$ git clone https://github.com/donchan922/HANSHIN-Tigers-report.git
+$ git clone https://github.com/vtomo/07_13_Ozawatomoyuki.git
 ```
 
 Modify software:
